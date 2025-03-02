@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'dart:math';
-import 'package:diet_app/updated/Home2.dart';
-import 'package:diet_app/updated/Homepage.dart';
+
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
+import 'Home2.dart';
 import 'NewChild.dart';
 import 'login.dart';
 

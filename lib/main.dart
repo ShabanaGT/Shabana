@@ -1,9 +1,10 @@
 import 'package:diet_app/add%20child.dart';
-import 'package:diet_app/updated/Home2.dart';
-import 'package:diet_app/updated/login.dart';
+
+
 import 'package:flutter/material.dart';
 
 import 'ChildList.dart';
+import 'SecondUpdate/login.dart';
 
 void main() {
   runApp(const MyApp());

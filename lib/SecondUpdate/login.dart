@@ -1,4 +1,5 @@
-import 'package:diet_app/updated/signup.dart';
+import 'package:diet_app/SecondUpdate/signup.dart';
+
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
